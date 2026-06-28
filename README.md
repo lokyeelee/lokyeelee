@@ -2,10 +2,10 @@
 
 <h2>👨‍💻 Personal Project</h2>
 
-- <b>Set up and Monitor Apache on Linux VM with Bash</b>
+- <b>Automated Apache Deployment and Monitoring with Bash</b>
   - https://github.com/lokyeelee/bash-manage-apache
 
-- <b>Windows Infrastructure Lab for Small Enterprise Administration</b>
+- <b>Building Small Enterprise Infrastructure with Windows Server and Active Directory</b>
   - https://github.com/lokyeelee/bash-manage-apache
 
 
