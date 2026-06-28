@@ -6,7 +6,7 @@
   - https://github.com/lokyeelee/bash-manage-apache
 
 - <b>Building Small Enterprise Infrastructure with Windows Server and Active Directory</b>
-  - https://github.com/lokyeelee/bash-manage-apache
+  - https://github.com/lokyeelee/ad-infra-lab
 
 
 
